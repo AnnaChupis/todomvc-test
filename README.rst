@@ -1,0 +1,1 @@
+Project contains test concerning automation user's task's list (a,b,c) input on todomvc.com, testing that a,b,c are active tasks, toggle the second one (b) and testing that completed task is b, active tasks are a,c.
